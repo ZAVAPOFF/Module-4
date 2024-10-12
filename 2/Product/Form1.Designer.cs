@@ -42,7 +42,7 @@
             // 
             // btnProducts
             // 
-            this.btnProducts.Location = new System.Drawing.Point(511, 221);
+            this.btnProducts.Location = new System.Drawing.Point(445, 221);
             this.btnProducts.Name = "btnProducts";
             this.btnProducts.Size = new System.Drawing.Size(188, 42);
             this.btnProducts.TabIndex = 1;
@@ -54,7 +54,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(662, 322);
             this.Controls.Add(this.btnProducts);
             this.Controls.Add(this.ListProducts);
             this.Name = "Form1";
